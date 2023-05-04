@@ -10,14 +10,14 @@ Need to replace path for model and dataset to run this notebook
 ## ModelDesignAndTrain.ipynb
 - This notebook is where we built the custom CNN model, trained and saved the model
 
-Need to replace path for dataset to run this notebook
+Need to replace path for dataset and path to save model to run this notebook
 
 ## TransferTrainAndSaveModels.ipynb
 - This notebook is for transfer learning
 - This loads a pre-trained VGG model and then makes some modifications to the model
 - Trains the model with dataset
 
-Need to replace path dor dataset to run this notebook
+Need to replace path for dataset and path to save model to run this notebook
 
 ## Link to Dataset and Saved Models
 - CustomeCNNModel.h5 is the trained saved model that we built
