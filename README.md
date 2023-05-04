@@ -19,3 +19,9 @@ Need to replace path for dataset to run this notebook
 
 Need to replace path dor dataset to run this notebook
 
+##Link to Dataset and Saved Models
+- CustomeCNNModel.h5 is the trained saved model that we built
+- TransferVGG.h5 is the trained saved model built on VGG
+- It also has the dataset prepared for the museum art use case
+
+https://drive.google.com/drive/folders/1x0aMlbR5tt_M1YWaJYHgDCtfJ3DI6Eu0?usp=sharing
